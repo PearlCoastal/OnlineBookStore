@@ -1,0 +1,50 @@
+
+
+.bottom{
+	margin-top: 100px;
+	margin-bottom: 10px;
+}
+.bottom a{
+	text-decoration:none;
+	text-align: right;
+	color: black; 
+
+}
+
+
+/*logo*/
+.logo{
+	
+    height:80px;
+	background-color: #208ed3;
+	color:white;
+	font-size: xx-large;
+	font-weight:bolder;
+	font-style: italic;
+	margin-bottom: 50px;
+
+}
+
+body{
+	width:1050px;
+	border:1px solid #b4b4b4;
+	margin:10px auto;
+	
+}
+.header{
+	font-size: 40px;
+	background-color: white;
+	font-family:微软雅黑;
+}
+.liebiao{
+	background-color: white;
+	font-family:微软雅黑;
+
+}
+.cart_bg{
+	background-color: white;
+	font-family:微软雅黑;
+
+}
+
+

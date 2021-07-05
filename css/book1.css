@@ -1,0 +1,61 @@
+body{
+	width:1050px;
+	border:1px solid #b4b4b4;
+	margin:10px auto;
+	font-size: 18px;
+	background-color: white;
+	font-family:微软雅黑;
+}
+
+
+
+/*logo*/
+.logo{
+	width:1050px;
+	height:65px;
+	background-color: #208ed3;
+	color:white;
+	font-size: xx-large;
+	font-weight:bolder;
+	font-style: italic;
+	margin-bottom: 50px;
+
+}
+
+
+/*搜索框*/
+.search{
+	margin-bottom: 30px;
+}
+
+
+
+.search a:LINK,.user a:LINK{
+	text-decoration: none;
+}
+
+
+/*推荐书籍*/
+.search href{
+	background-color: #f8f8f8;	
+}
+
+/*右侧用户登陆以及注册*/
+
+.user{
+	float:right;
+	padding-right:0px;
+	width:200px;
+	margin-left: 8px;
+	height:80px;
+}
+
+.bottom{
+	margin-top: 100px;
+	margin-bottom: 10px;
+}
+.bottom a{
+	text-decoration:none;
+	text-align: right;
+	color: black; 
+}

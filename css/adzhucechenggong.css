@@ -1,0 +1,39 @@
+*{ margin: 0;padding: 0;}
+li,ul{list-style: none;}
+img,input{border: 0;}
+a{text-decoration: none;}
+body{font-family: "Î¢ÈíÑÅºÚ","Microsoft Yahei",Arial,Helvetica,sans-serif,"ËÎÌå";font-size: 14px;color: #515151;}
+body input, body textarea {font-family: "Î¢ÈíÑÅºÚ","Microsoft Yahei",Arial,Helvetica,sans-serif,"ËÎÌå";background-color: white;outline: none;}
+.content{ width: 100%; height: auto;}
+.header{ 
+    background: #208ed3; /* Old browsers */
+	background: -moz-linear-gradient(top, #208ed3 0%, #0272bd 100%); /* FF3.6+ */
+	background: -	webkit-gradient(linear, left top, left bottom, color-stop(0%,#208ed3), color-stop(100%,#0272bd)); /* Chrome,Safari4+ */ 
+	background: -webkit-linear-gradient(top, #208ed3 0%,#0272bd 100%); /* Chrome10+,Safari5.1+ */ 
+	background: -o-linear-gradient(top, #208ed3 0%,#0272bd 100%); /* Opera 11.10+ */ 
+	background: -ms-linear-gradient(top, #208ed3 0%,#0272bd 100%); /* IE10+ */ 
+	background: linear-gradient(to bottom, #208ed3 0%,#0272bd 100%); /* W3C */ 
+	padding: 15px 25px;
+	height:50px;
+	overflow: hidden;
+	border-bottom: 1px solid #27292a;
+	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+	-moz-box-sizing: border-box;    /* Firefox, other Gecko */
+	box-sizing: border-box;         /* Opera/IE 8+ */
+	position: relative;
+	top: 0;
+	width: 100%;
+	height: 100px;
+	font-weight:bold;
+	z-index: 1000;
+	background:#22292C;
+}
+.header h1{
+	margin-top:27px;
+	font-size:20px;
+	color:white;
+}
+
+.contact{
+	
+}

@@ -1,0 +1,137 @@
+body{
+	width:1050px;
+	border:1px solid #b4b4b4;
+	margin:10px auto;
+	font-size: 18px;
+	background-color: white;
+	font-family:微软雅黑;
+}
+
+
+
+/*logo*/
+.logo{
+	width:1050px;
+	height:65px;
+	background-color: #208ed3;
+	color:white;
+	font-size: xx-large;
+	font-weight:bolder;
+	font-style: italic;
+	margin-bottom: 50px;
+
+}
+
+
+/*搜索框*/
+.search{
+	margin-bottom: 30px;
+}
+
+
+
+.navi a:LINK,.user a:LINK,.faceul li a:LINK,.bottom a:LINK{
+	text-decoration: none;
+	
+}
+.navi a:HOVER,.user a:HOVER,.faceul li a:HOVER,.bottom a:HOVER{
+    background-color: #208ed3;
+    color: white;
+    text-decoration: underline;
+}
+
+
+
+/*中间导航栏top*/
+.top{
+	width:830px;
+	height:30px;
+	margin-left: 200px;
+	background-color: white;
+    float:right;
+    margin-bottom: 10px;
+    
+}
+
+.top a:LINK {
+	text-decoration: none;
+	margin-right: 180px;
+	
+}
+
+.top a:HOVER {
+	font-weight: bold;
+	color: #208ed3;
+}
+
+/*右侧用户登陆以及注册*/
+.user{
+	float:right;
+	padding-right:0px;
+	width:200px;
+	margin-left: 8px;
+	height:80px;
+}
+
+.navi{
+	
+	float:left;
+	background-color: white;
+	width:200px;
+	height:1000px;
+	/*border:1px solid red;*/
+	margin-right: 18px;
+	color: #208ed3;
+	
+}
+
+
+/*书籍展览信息*/
+.book {
+	width:1000px;
+	background-color: white;
+	/*border:1px solid red;*/
+	margin-top: 10px;
+	margin-left: 15px;
+}
+
+.faceul{
+	width:700px;
+	/*background-color: #f8f8f8;*/
+	margin:5px auto;
+	
+}
+
+.faceul li,.navi li{
+	list-style-type: none;
+	margin-bottom: 10px;
+}
+
+.faceul li:HOVER,.navi:HOVER,.user:HOVER{
+	background-color: white;
+	color: #208ed3;
+}
+
+.bottom{
+	margin-top: 100px;
+	margin-bottom: 10px;
+}
+.bottom a{
+	text-decoration:none;
+	text-align: right;
+	color: black; 
+
+}
+
+.admin{
+	padding: 0 15px 5px 5px;
+	text-align:center;
+	color:blue;
+}
+.admin a{
+	text-decoration:none;
+}
+.admin a:link,a:visited{
+	color:blue;
+	text-decoration:none;
+}
